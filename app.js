@@ -23,7 +23,7 @@ const App = () => {
   const histHeight = dateHistogramSize * height;
   const mapHeight = height - histHeight;
 
-  // ✅ Instead of returning early, define isLoading and handle it in JSX
+  // Instead of returning early, define isLoading and handle it in JSX
   const isLoading = !worldAtlas || !data;
 
   return (
