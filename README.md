@@ -1,1 +1,2 @@
-# missing-migrants-visualization
+# Missing Migrants Across the Globe
+- This is our new project, and we will complete it gradually. Once it’s finished, the information will be shared in a markdown (MD) file. The project focuses on data visualization.
